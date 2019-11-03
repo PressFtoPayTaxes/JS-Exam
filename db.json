@@ -1,0 +1,24 @@
+{
+  "plans": [
+    {
+      "month": "2019-10",
+      "startMoney": "3",
+      "currentMoney": "3",
+      "expences": [
+        {
+          "description": "123",
+          "category": "bills",
+          "day": "2",
+          "spent": "2"
+        },
+        {
+          "description": "123",
+          "category": "bills",
+          "day": "2",
+          "spent": "2"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
